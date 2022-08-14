@@ -1,0 +1,15 @@
+appTest\FbSignUp.class
+wdTestNG\SimplilearnLoginTest.class
+pages\LoginPage.class
+appTest\LoginTest.class
+appTest\ScreemshptExample.class
+testNG\LoanTest.class
+wdTestNG\BaseClass.class
+appTest\IFrameExample.class
+appTest\FbLogin.class
+appTest\DragAndDropEx.class
+wdTestNG\HomePageTest.class
+appTest\WebTableExample.class
+appTest\AlertsExample.class
+appTest\WindowsExample.class
+testNG\AccountTest.class
